@@ -133,13 +133,13 @@ Kota, G. (2023). Customer Churn Prediction: A Comparative Analysis of Models wit
 ```
 ## Technologies Used
 The below are few of the technologies used in this project.
-Python 3.8+
-Pandas
-Scikit-learn
-TensorFlow
-Hugging Face Transformers
-Matplotlib
-LightGBM
+* Python 3.8+
+* Pandas
+* Scikit-learn
+* TensorFlow
+* Hugging Face Transformers
+* Matplotlib
+* LightGBM
 ## Acknowledgments
 
 Thanks to the Hugging Face team for their excellent NLP tools and models.
